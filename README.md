@@ -12,17 +12,19 @@ The Concert Venue Project is designed to showcase upcoming concerts, including d
 - Ticket price information
 - Location of the venue displayed on a map
 
-## Installation
+## Getting Started
 
-To run the Concert Venue Project locally, follow these steps:
-
-1. Clone this repository:
-   https://github.com/akhilmw/Concert-Venue-Project 
-2. Navigate to the project directory:
-  cd theVenue
-3. Install dependencies:
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/akhilmw/Concert-Venue-Projec
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd theVenue
+3. **Install Dependencies:**
+   ```bash
    npm install
-4. Start the development server:
+1. **Run Venue Project:**
+   ```bash
    npm start
 
 ## Technologies Used
@@ -30,7 +32,7 @@ To run the Concert Venue Project locally, follow these steps:
 
 ## Live Demo
 
-You can view a live demo of the Concert Venue Project[https://venueforconcert.netlify.app/].
+You can view a live demo of the [Concert Venue Project](https://venueforconcert.netlify.app/).
 
 
 ## Contributing
